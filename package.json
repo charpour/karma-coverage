@@ -20,7 +20,7 @@
   "author": "SATO taichi <ryushi@gmail.com>",
   "dependencies": {
     "dateformat": "^1.0.6",
-    "istanbul": "charpour/istanbul",
+    "istanbul": "charpour/istanbul#fcf95d2179b446623c496a3aae86e794bd1dfebf",
     "lodash": "^3.8.0",
     "minimatch": "^3.0.0",
     "source-map": "^0.5.1"
